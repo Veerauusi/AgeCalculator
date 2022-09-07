@@ -1,0 +1,42 @@
+body {
+    margin-top:60px;
+    background: rgb(27,32,36);
+    background: linear-gradient(90deg, rgba(27,32,36,1) 0%, rgba(61,68,71,1) 50%, rgba(27,32,36,1) 100%);
+    color: #f2e6bf;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.header2 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    opacity: 0.9;
+    color: #778889;
+    text-align: center;
+}
+
+.invalid {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    opacity: 0.9;
+    text-align: center;
+}
+
+#birthDate {
+    background-color: #f2e6bf;
+    color: #3d4447;
+    font-weight: bold;
+}
+
+.card {
+    background: #778889;
+}
+
+.result {
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.result-header {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
